@@ -1,4 +1,4 @@
-# How to display the Web Dashboard in a popup (React)
+# Dashboard Component for React - How to display the Web Dashboard in a popup
 
 This example illustrates how to use the React-based `DashboardControl` component to diplay a dashboard in the [DevExtreme Popup widget](https://js.devexpress.com/Documentation/ApiReference/UI_Widgets/dxPopup/).
 
@@ -36,5 +36,6 @@ Open ```http://localhost:3000/``` in your browser to see the result.
 - [Cross-Origin Resource Sharing (CORS)](https://docs.devexpress.com/Dashboard/400709?v=20.2)
 
 ## Examples
-- [Dashboard Client-Side Application (React)](https://github.com/DevExpress-Examples/dashboard-react-app)
-- [Dashboard React Example](https://github.com/DevExpress-Examples/dashboard-react-example)
+- [Get Started - Client-Side Dashboard Application built with React](https://github.com/DevExpress-Examples/dashboard-react-app)
+- [Dashboard Component for React - Configuration](https://github.com/DevExpress-Examples/dashboard-react-example)
+- [Dashboard Component for Angular - How to display the Web Dashboard in a popup](https://github.com/DevExpress-Examples/web-dashboard-in-popup-angular)
