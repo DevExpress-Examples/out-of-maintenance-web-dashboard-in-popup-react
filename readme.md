@@ -1,12 +1,14 @@
-# Dashboard Component for React - How to display the Web Dashboard in a popup
+<!-- default file list -->
+*Files to look at*:
+
+* [App.js](./dashboard-react-app/src/App.js)
+<!-- default file list end -->
+
+# Dashboard for React - How to display the Web Dashboard in a popup
 
 This example illustrates how to use the React-based `DashboardControl` component to diplay a dashboard in the [DevExtreme Popup widget](https://js.devexpress.com/Documentation/ApiReference/UI_Widgets/dxPopup/).
 
 ![web-dashboard-react-popup](web-dashboard-react-popup.png)
-
-See the following file for implementation details:
-
-- [App.js](./dashboard-react-app/src/App.js)
 
 The example uses a modular approach that based on the client-server model. You need a server (backend) project and a client (frontend) application that includes all the necessary styles, scripts and HTML-templates. Note that the script version on the client should match with libraries version on the server up to a minor version.
 
@@ -31,11 +33,13 @@ npm start
 Open ```http://localhost:3000/``` in your browser to see the result.
 
 ## Documentation
+
 - [Add Web Dashboard to a React Application](https://docs.devexpress.com/Dashboard/400683/web-dashboard/dashboard-component-for-react/add-web-dashboard-to-a-react-application?v=20.2)
 - [Dashboard Component for React](https://docs.devexpress.com/Dashboard/401977/web-dashboard/dashboard-component-for-react?v=20.2)
 - [Cross-Origin Resource Sharing (CORS)](https://docs.devexpress.com/Dashboard/400709?v=20.2)
 
-## Examples
+## More Examples
+
 - [Get Started - Client-Side Dashboard Application built with React](https://github.com/DevExpress-Examples/dashboard-react-app)
-- [Dashboard Component for React - Configuration](https://github.com/DevExpress-Examples/dashboard-react-example)
-- [Dashboard Component for Angular - How to display the Web Dashboard in a popup](https://github.com/DevExpress-Examples/web-dashboard-in-popup-angular)
+- [Dashboard for React - Configuration](https://github.com/DevExpress-Examples/dashboard-react-example)
+- [Dashboard for Angular - How to display the Web Dashboard in a popup](https://github.com/DevExpress-Examples/web-dashboard-in-popup-angular)
