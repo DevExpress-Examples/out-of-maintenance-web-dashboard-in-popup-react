@@ -3,11 +3,6 @@
 [![](https://img.shields.io/badge/Open_in_DevExpress_Support_Center-FF7200?style=flat-square&logo=DevExpress&logoColor=white)](https://supportcenter.devexpress.com/ticket/details/T942113)
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
-<!-- default file list -->
-*Files to look at*:
-
-* [App.js](./dashboard-react-app/src/App.js)
-<!-- default file list end -->
 
 # Dashboard for React - How to display the Web Dashboard in a popup
 
@@ -39,6 +34,10 @@ npm start
 ```
 
 Open ```http://localhost:3000/``` in your browser to see the result.
+
+## Files to Look At
+
+* [App.js](./dashboard-react-app/src/App.js)
 
 ## Documentation
 
